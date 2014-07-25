@@ -1,17 +1,10 @@
 <h2> 과제 1 </h2>
-<p>아래의 이미지처럼 만들어보세요</p>
-<style>
-.wrap{
-border:1px solid #ddd;
-}
-</style>
-<div class="wrap">
-    <img src="https://raw.githubusercontent.com/joon1030/homework/master/homework1/First_HOMEWORK.png">
-</div>
+<p>아래 요구사항을 만족하는 이미지 처럼 만들어보세요</p>
 <ul>
     <li>1. 인풋창에 글을 입력하면 아래의 ul에 목록 추가하기</li>
     <li>2. 엔터키를 눌러도 입력되게 하기</li>
 </ul>
+<img src="https://raw.githubusercontent.com/joon1030/homework/master/homework1/First_HOMEWORK.png">
 
 ```html
 <html>
