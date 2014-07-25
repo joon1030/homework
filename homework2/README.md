@@ -52,7 +52,7 @@
     
 </div>
 <script type="text/javascript">
-스크립트를 작성하세요~!
+//스크립트를 작성하세요~!
 </script>
 </html>
 ```
