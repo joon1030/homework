@@ -14,8 +14,7 @@
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
 
     <script type="application/javascript" src="http://code.jquery.com/jquery-1.11.1.js"></script>
-    <script type="application/javascript" src="http://underscorejs.org/underscore.js"></script>
-    <script type="application/javascript" src="http://backbonejs.org/backbone.js"></script>
+    
     <script type="application/javascript" src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
 
     <style>
