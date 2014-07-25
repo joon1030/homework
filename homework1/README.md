@@ -1,6 +1,11 @@
 <h2> 과제 1 </h2>
 <p>아래의 이미지처럼 만들어보세요</p>
-<div  style="boder:1px solid red;">
+<style>
+.wrap{
+border:1px solid #ddd;
+}
+</style>
+<div class="wrap">
     <img src="https://raw.githubusercontent.com/joon1030/homework/master/homework1/First_HOMEWORK.png">
 </div>
 <ul>
